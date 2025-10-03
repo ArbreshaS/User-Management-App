@@ -1,0 +1,51 @@
+.detajet {
+  padding: 24px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.titulli {
+  margin-bottom: 16px;
+  text-align: center;
+  font-size: 24px;
+}
+
+.tableUser {
+  margin-top: 16px;
+}
+
+.userButton{
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  margin-top: 20px;
+}
+
+.ModalInput {
+  margin-bottom: 12px;
+}
+
+@media (max-width: 768px) {
+  .detajet {
+    padding: 16px;
+  }
+
+  .titulli {
+    font-size: 20px;
+  }
+
+  .userButton {
+    flex-direction: column;
+    gap: 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  .detajet {
+    padding: 12px;
+  }
+
+  .titulli{
+    font-size: 18px;
+  }
+}
