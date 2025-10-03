@@ -48,8 +48,11 @@ Responsive design for desktops and mobile devices
 
 Clean layout with Tables, Cards, Buttons, Inputs, and Forms from antd
 
+### How to Run
 
+Follow these steps to set up and run the project locally:
 Clone the repository:
+
 git clone https://github.com/ArbreshaS/User-Management-App.git
 cd User-Management-App
 npm install
