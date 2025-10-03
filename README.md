@@ -1,9 +1,8 @@
 # User Management App
 
-
 This project is a User Management application built with React and Ant Design (antd). It demonstrates modern React development concepts including component-based architecture, state management, routing, form handling, and data fetching. The app allows users to view, search, add, and inspect details of users with a clean and responsive UI.
 
-###Features
+### Features
 
 ### 1. User Listing
 Fetches user data from https://jsonplaceholder.typicode.com/users
