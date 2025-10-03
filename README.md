@@ -55,8 +55,11 @@ Follow these steps to set up and run the project locally:
 Clone the repository:
 
 git clone https://github.com/ArbreshaS/User-Management-App.git
+
 cd User-Management-App
+
 npm install
+
 npm start
 
 
