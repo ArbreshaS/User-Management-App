@@ -62,6 +62,9 @@ npm install
 
 npm start
 
+<img width="960" height="556" alt="userManagement" src="https://github.com/user-attachments/assets/b3379800-b435-4bbd-b803-eca24ab3a5a8" />
+
+<img width="960" height="563" alt="userdetails" src="https://github.com/user-attachments/assets/d97af626-66e0-442a-9001-b8a0bbe8e977" />
 
 
 Arbresha Stublla
