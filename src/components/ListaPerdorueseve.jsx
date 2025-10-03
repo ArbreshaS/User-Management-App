@@ -143,7 +143,7 @@ function ListaPerdorueseve({ users, setUsers }) {
 
       {editingUser && (
          <Modal
-          title="Update përdorues"
+          title="Përditëso përdoruesin"
           open={!!editingUser}
           onOk={saveEdit}
           onCancel={() => setEditingUser(null)}

@@ -23,6 +23,7 @@
   flex-wrap: wrap;
   gap: 12px 16px; 
 
+
 }
 
 .input {
@@ -53,6 +54,9 @@
   display: flex;
   gap: 8px;
   justify-content: center;
+}
+.formInput{
+  margin-top: 10px;
 }
 
 
